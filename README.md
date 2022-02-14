@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/oJR7eqa.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Nandhutty_v2" src="https://img.shields.io/badge/Nandhutty_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Niyamwol_v2" src="https://img.shields.io/badge/NIYAMWOL_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Ajmal-Achu"><img title="Author" src="https://img.shields.io/badge/Author-Ajmal-Achu/Nandhutty_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Nasif404"><img title="Author" src="https://img.shields.io/badge/Author-Ajmal-Achu/Nandhutty_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Ajmal-Achu">Ajmal-Achu</a> to make it public
+Project created by <a href="https://github.com/Nasif404">Nasif404</a> to make it public
     <br>
        | © |
         Reserved |
@@ -23,9 +23,9 @@ Project created by <a href="https://github.com/Ajmal-Achu">Ajmal-Achu</a> to mak
 
 IF YOU ARE FACING PROBLEMS WHILE DEPLOYING
 FIRST FORK THIS REPO
-THEN COPY THE LINK BELLOW AND CHANGE THE NAME `Ajmal-Achu` TO YOUR USER NAME AND OPEN THIS LINK IN CHROME
+THEN COPY THE LINK BELLOW AND CHANGE THE NAME `Nasif- Anshid` TO YOUR USER NAME AND OPEN THIS LINK IN CHROME
 
-Copy this link https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Nandhutty_v2
+Copy this link https://heroku.com/deploy?template=https://github.com/Nasif404/NIYA-MWOL_v2
 </p>
 
 
@@ -33,7 +33,7 @@ Copy this link https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/
   
 ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Nandhutty_v2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nasif404/NIYA-MWOL_ V2) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -51,8 +51,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Ajmallllllll/Nandhutty_v2
-$ cd Nandhutty_v2
+$ git clone https://github.com/Nasif/NIYA-MWOL_v2
+$ cd NIYAMWOL_v2
 $ npm i
 $ node julie.js
 ```
@@ -76,10 +76,10 @@ $ node julie.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DsWqJWHRxgU16kvxFvLYL6)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FaGaRHqwf9PK28zoOPfigR)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajmal-Achu&repo=Nandhutty_v2&theme=nightowl)](https://github.com/Ajmal-Achu/Nandhutty_v2)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajmal-Achu&repo=Nandhutty_v2&theme=nightowl)](https://github.com/Nasif404/NIYA-MWOL_V2)
   </div>
     
 ### ⚠️ Warning! 
