@@ -5,7 +5,7 @@
 <a href="#"><img title="Niyamwol_v2" src="https://img.shields.io/badge/NIYAMWOL_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Nasif404"><img title="Author" src="https://img.shields.io/badge/Author-Ajmal-Achu/Nandhutty_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Nasif404"><img title="Author" src="https://img.shields.io/badge/Author-Nasif404/NIYA-MWOL_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -29,7 +29,7 @@ Copy this link https://heroku.com/deploy?template=https://github.com/Nasif404/NI
 </p>
 
 
-[![Visit](https://i.imgur.com/A6rxBdq.jpeg)](https://61dd66edc10ff.site123.me) 
+[![Visit](https://i.imgur.com/oJR7eqa.jpeg)](https://61dd66edc10ff.site123.me) 
   
 ### Simple Method
   
